@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YiranXu
-- 👀 I’m a data analyst/ machine learning engineer in China. 
+- 👀 I’m a data analyst/ machine learning engineer based in China. I have lived in the U.S for 10 years (New York University and Iowa State University Alum)
 - 🌱 I’m currently learning AI in manufacturing and IoT. I am also learning computer science fundamentals and cloud. 
 - 📫 How to reach me: yx1350@nyu.edu
 
